@@ -1,5 +1,5 @@
 // Configuration - REPLACE WITH YOUR ACTUAL VALUES
-const KEYPOINT_API_URL = "https://serverless.roboflow.com/atc-jqhue/2"; // Replace with your model
+const KEYPOINT_API_URL = "https://serverless.roboflow.com/atc-jqhue/3"; // Replace with your model
 const API_KEY = "uzkuNWY0Fg8F6oMZzaX9"; // Replace with your key
 
 // Google Translate initialization
